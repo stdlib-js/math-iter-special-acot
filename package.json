@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/math-iter-special-acot",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the inverse cotangent of each iterated value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-acot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.acot",
+    "inverse",
+    "tangent",
+    "cotangent",
+    "acot",
+    "cot",
+    "arc",
+    "arccotangent",
+    "trig",
+    "trigonometry",
+    "radians",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
