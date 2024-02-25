@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterAcot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-acot@esm/index.mjs';
+import iterAcot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-acot@v0.2.1-esm/index.mjs';
 ```
 
 #### iterAcot( iterator )
@@ -111,7 +111,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 <script type="module">
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@esm/index.mjs';
-import iterAcot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-acot@esm/index.mjs';
+import iterAcot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-acot@v0.2.1-esm/index.mjs';
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = uniform( -5.0, 5.0, {
